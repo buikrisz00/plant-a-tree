@@ -1,0 +1,35 @@
+section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    background-color: lightblue;
+    height: 90vh;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 50%;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    margin-top: 30%;
+}
+
+aside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color:chocolate;
+    height: 10vh;
+    text-align: center;
+}
